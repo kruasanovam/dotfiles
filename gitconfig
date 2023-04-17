@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kruasanovam@gmail.com
+	name = Maria Rusanova-Jardan
